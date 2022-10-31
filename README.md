@@ -13,15 +13,15 @@ The datasets and databases used in these projects are for demostration purposes.
 
 ## Projects
 
-### Different Types of Tea (SQLite Project)
+### Creating a SQLite Database with Differnt Types of Tea
 - 1
     - 1.1
 
-### (MySQL Project)
+### Creating a College Management System using MySQL
 - 2
     - 2.1
 
-### Data Querying and Data Management
+### Querying Data and Managing Data with Jupyter Notebooks
 - 3
     - 3.1
 
