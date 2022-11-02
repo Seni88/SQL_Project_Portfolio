@@ -5,6 +5,7 @@ The datasets and databases used in these projects are for demostration purposes.
 
 ## Instructions
 - Download any software that provides a relational database management system (RDBMS) that will enable you to query and manage data in a database. SQLite and MySQL are examples of RDBMS.
+- Download Python Jupyter Notebooks to write scripts that execute SQL queries and commands.
 
 ## Folder Content
 - Database
